@@ -1,38 +1,29 @@
 ---
-title: Hello World
+title: 突然好想你
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+空的时候，我就在想:
+我在你心里，是怎样的呢？
+无关紧要的？ 看着就烦？还是后悔认识了我....
 
-## Quick Start
+我真的很想把我的快乐分你一半，但是我发现：
+我也没有快乐了，好像还给你增加了好多的负担、
+也让你的生活变得不那么快乐了
 
-### Create a new post
+从易经、阴阳、星座、MBTI和塔罗，来看；
+我们的时间线，好像本没有交集
+如果你没有出现，你的生活又会是怎样的呢？
 
-``` bash
-$ hexo new "My New Post"
-```
+回顾完你的时间线，未经过你的同意
+我就像那一抹蚊子血，
+不该出现，强行出现，令人讨厌；
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+至此，青春与少年的悸动已然谢幕。
+是的，我很遗憾、惋惜，但是我真的尽力了。
+我的意思是，感谢你的出现。
 
-### Run server
+总之，真心的希望你过好
+能摆脱让你作恶的人，能拥有一段真正值得去赴汤蹈火的爱情！
+愿夜里有人为你留灯，愿你爱的人能住进你的心里
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+我爱你，至少我们曾经拥有过一段时光
+I love you. I mean, I have loevd at least
