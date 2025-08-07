@@ -67,6 +67,10 @@ navbar:
   enable: true
   back_home: true
 
+# Scrollbar
+scrollbar:
+  type: simple
+
 
 # Fab (Float Action Button)
 fab:
