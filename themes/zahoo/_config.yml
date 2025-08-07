@@ -74,7 +74,7 @@ scrollbar:
 
 # Fab (Float Action Button)
 fab:
-  enable: true
+  enable: false
   always_show: false
 
 # Search

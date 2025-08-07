@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 苏Sir の 小破站 | 小绿老头 の balabala  # 修改为你想要显示的标题
+subtitle: '苏Sir の 小破站'
+description: '苏Sir の 小破站 | 小绿老头 の balabala'
+keywords: 苏Sir の 小破站 | 小绿老头 の balabala
+author: Charles Su
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://charles.su
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
